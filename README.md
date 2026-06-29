@@ -51,7 +51,7 @@ This project explores the integration of Large Language Models (LLMs) with Confi
 **Prajwal Mahesh Palled**
 
 Master's Student – Robotics and Automation  
-University West, Sweden
+University West, Trollhättan, Sweden
 
 LinkedIn:
-https://www.linkedin.com/in/prajwalpalled/
+www.linkedin.com/in/prajwal-mahesh-palled-849502231
